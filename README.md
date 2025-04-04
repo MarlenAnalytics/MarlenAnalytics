@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarlenAnalytics
 - 👀 I’m interested in data analytics and data visualization.
-- 🌱 I’m currently learning advanced SQL and Python for data analysis.
+- 🌱 Experience using SQL, Python, and Tableau for data analysis.
 - 📖 Studied Physics at Florida International University.
 - 💞️ I’m looking to collaborate on data-driven projects or open-source analytics tools.
 - 📫 How to reach me: fornesmarlen013@outlook.com
