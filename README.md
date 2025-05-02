@@ -4,7 +4,6 @@
 - 📖 Studied Physics at Florida International University.
 - 💞️ I’m looking to collaborate on data-driven projects or open-source analytics tools.
 - 📫 How to reach me: fornesmarlen013@outlook.com
-- 😄 Pronouns: she/they
 - ⚡ Fun fact: I did a 2 year long internship focusing on analyzing experimental data from Jefferson Lab.
 
 <!---
